@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/disney-app/public/index.html/static/css/main.493d802a.chunk.css",
-    "main.js": "/disney-app/public/index.html/static/js/main.523b1788.chunk.js",
-    "main.js.map": "/disney-app/public/index.html/static/js/main.523b1788.chunk.js.map",
-    "runtime-main.js": "/disney-app/public/index.html/static/js/runtime-main.4f2cb299.js",
-    "runtime-main.js.map": "/disney-app/public/index.html/static/js/runtime-main.4f2cb299.js.map",
-    "static/css/2.4f4ae183.chunk.css": "/disney-app/public/index.html/static/css/2.4f4ae183.chunk.css",
-    "static/js/2.93f9314c.chunk.js": "/disney-app/public/index.html/static/js/2.93f9314c.chunk.js",
-    "static/js/2.93f9314c.chunk.js.map": "/disney-app/public/index.html/static/js/2.93f9314c.chunk.js.map",
-    "index.html": "/disney-app/public/index.html/index.html",
-    "static/css/2.4f4ae183.chunk.css.map": "/disney-app/public/index.html/static/css/2.4f4ae183.chunk.css.map",
-    "static/css/main.493d802a.chunk.css.map": "/disney-app/public/index.html/static/css/main.493d802a.chunk.css.map",
-    "static/js/2.93f9314c.chunk.js.LICENSE.txt": "/disney-app/public/index.html/static/js/2.93f9314c.chunk.js.LICENSE.txt",
-    "static/media/slick-theme.css": "/disney-app/public/index.html/static/media/slick.c94f7671.ttf"
+    "main.css": "/disney-app/static/css/main.493d802a.chunk.css",
+    "main.js": "/disney-app/static/js/main.523b1788.chunk.js",
+    "main.js.map": "/disney-app/static/js/main.523b1788.chunk.js.map",
+    "runtime-main.js": "/disney-app/static/js/runtime-main.b3fe17e0.js",
+    "runtime-main.js.map": "/disney-app/static/js/runtime-main.b3fe17e0.js.map",
+    "static/css/2.ffb7b220.chunk.css": "/disney-app/static/css/2.ffb7b220.chunk.css",
+    "static/js/2.19c077ad.chunk.js": "/disney-app/static/js/2.19c077ad.chunk.js",
+    "static/js/2.19c077ad.chunk.js.map": "/disney-app/static/js/2.19c077ad.chunk.js.map",
+    "index.html": "/disney-app/index.html",
+    "static/css/2.ffb7b220.chunk.css.map": "/disney-app/static/css/2.ffb7b220.chunk.css.map",
+    "static/css/main.493d802a.chunk.css.map": "/disney-app/static/css/main.493d802a.chunk.css.map",
+    "static/js/2.19c077ad.chunk.js.LICENSE.txt": "/disney-app/static/js/2.19c077ad.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/disney-app/static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f2cb299.js",
-    "static/css/2.4f4ae183.chunk.css",
-    "static/js/2.93f9314c.chunk.js",
+    "static/js/runtime-main.b3fe17e0.js",
+    "static/css/2.ffb7b220.chunk.css",
+    "static/js/2.19c077ad.chunk.js",
     "static/css/main.493d802a.chunk.css",
     "static/js/main.523b1788.chunk.js"
   ]
